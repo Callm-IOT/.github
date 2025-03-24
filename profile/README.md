@@ -4,7 +4,8 @@
 
 | Logo de Empresa | Logo del Producto |
 | --------------- | ----------------- |
-|![Logo del Empresa](https://i.imgur.com/Y3LtyXo.jpeg)|![Logo del Producto](https://github.com/Callm-IOT/api-callm/blob/main/WhatsApp%20Image%202025-02-17%20at%2015.27.25.jpeg)|
+| <img src="https://i.imgur.com/Y3LtyXo.jpeg" alt="Logo de la Empresa" width="200"/> | <img src="https://github.com/Callm-IOT/api-callm/blob/main/WhatsApp%20Image%202025-02-17%20at%2015.27.25.jpeg?raw=true" alt="Logo del Producto" width="200"/> |
+
 
 ## Descripción
 
